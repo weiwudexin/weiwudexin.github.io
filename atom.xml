@@ -1,24 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>Ψ������</title>
+  <subtitle>To be a better man</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-04-21T13:01:00.342Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://www.idexing.top/"/>
+  <updated>2016-04-24T13:09:47.280Z</updated>
+  <id>http://www.idexing.top/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>Ψ������</name>
+    <email>sdexin1211@gmail.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="http://www.idexing.top/2016/04/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://www.idexing.top/2016/04/24/第一篇博客/</id>
+    <published>2016-04-24T13:09:47.278Z</published>
+    <updated>2016-04-24T13:09:47.280Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;第一次写博客&quot;&gt;&lt;a href=&quot;#第一次写博客&quot; class=&quot;headerlink&quot; title=&quot;第一次写博客&quot;&gt;&lt;/a&gt;第一次写博客&lt;/h2&gt;&lt;h3 id=&quot;有点小兴奋&quot;&gt;&lt;a href=&quot;#有点小兴奋&quot; class=&quot;headerlink&quot; title=&quot;有点小兴奋&quot;&gt;&lt;/a&gt;有点小兴奋&lt;/h3&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;第一次写博客&quot;&gt;&lt;a href=&quot;#第一次写博客&quot; class=&quot;headerlink&quot; title=&quot;第一次写博客&quot;&gt;&lt;/a&gt;第一次写博客&lt;/h2&gt;&lt;h3 id=&quot;有点小兴奋&quot;&gt;&lt;a href=&quot;#有点小兴奋&quot; class=&quot;headerlink&quot; title=
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/04/21/hello-world/"/>
-    <id>http://yoursite.com/2016/04/21/hello-world/</id>
+    <link href="http://www.idexing.top/2016/04/21/hello-world/"/>
+    <id>http://www.idexing.top/2016/04/21/hello-world/</id>
     <published>2016-04-21T13:01:00.341Z</published>
     <updated>2016-04-21T13:01:00.342Z</updated>
     
